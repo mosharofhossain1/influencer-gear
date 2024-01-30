@@ -289,3 +289,50 @@ nav ul .shoping_cart {
     font-weight: 700;
     margin-top: 10px;
 }
+
+/* Footer Section Css */
+footer {
+    background-color: #0A0826;
+    padding: 50px 0px;
+}
+
+.footer_contents {
+    text-align: center;
+    color: white;
+}
+
+.footer_title {
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    margin-bottom: 10px;
+}
+
+.footer_desc {
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 700;
+    margin-bottom: 10px;
+}
+
+.footer_contents span {
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 700;
+}
+.footer_social_links{
+    text-align: center;
+    margin-top: 20px;
+   
+}
+.footer_social_links i{
+    font-size: 30px;
+    color: white;
+    text-align: center;
+    margin: 0px 10px;
+    border: 1px solid orange;
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    line-height: 50px;
+}
